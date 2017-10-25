@@ -1,4 +1,4 @@
-/**
+ /**
  * 
  */
 package algorithms;
@@ -15,7 +15,7 @@ public class RandomNumberGenerator {
 
 	/**
 	 * This method contains a linear congruential generator for generating
-     * a list of pseudo random numbers
+         * a list of pseudo random numbers
 	 * @param args
 	 */
 	public static void main(String[] args) {
